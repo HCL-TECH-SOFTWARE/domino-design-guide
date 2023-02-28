@@ -1,4 +1,5 @@
 # domino-design-guide
+We follow [The Grand Unified Theory of Documentation](https://documentation.divio.com)
 
 
 # Contributing

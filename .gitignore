@@ -1,0 +1,8 @@
+/mkdocs-preview.sh
+.DS_Store
+Thumbs.*
+ehthumbs.*
+[Dd]desktop.ini
+*.lnk
+$RECYCLE.BIN/
+._*

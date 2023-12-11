@@ -1,0 +1,40 @@
+---
+class: 4
+flags: 0x0000
+unid: OF67829F17A94DFF19-ON006994A98525894F
+items:
+  - name: $DesignerVersion
+    type: text
+    data: 8.5.3
+    signed: true
+  - name: $Flags
+    type: text
+    data: 34Ci~Q
+  - name: $ImageNames
+    type: text
+    data: "Z:\\brianarnold On My Mac\\HCL Files\\Dev Work\\Design Guide\\DesignGuideLogo.png"
+    signed: true
+  - name: $ImagesColorize
+    type: number
+    data: 0
+    signed: true
+  - name: $ImagesHigh
+    type: number
+    data: 1
+    signed: true
+  - name: $ImagesWide
+    type: number
+    data: 1
+    signed: true
+  - name: $MimeType
+    type: text
+    data: image/png
+    signed: true
+  - name: $TITLE
+    type: text
+    data: $DBIcon
+  - name: $ImageData
+    type: composite
+    signed: true
+    nonsummary: true
+remaining: []

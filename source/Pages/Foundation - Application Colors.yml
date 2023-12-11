@@ -1,0 +1,7144 @@
+---
+class: 4
+flags: 0x0000
+unid: OFF38D5D96A94CEE19-ON0064E2438525894F
+items:
+  - name: $$ScriptName
+    type: text
+    data: Foundation - Application Colors
+    signed: true
+    nonsummary: true
+  - name: $Comment
+    type: text
+    data: ""
+    signed: true
+  - name: $DesignerVersion
+    type: text
+    data: 8.5.3
+    signed: true
+  - name: $Flags
+    type: text
+    data: C34WQ
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2023-02-07T13:21:55.23-05:00"
+      - data: "2023-02-07T13:22:35.35-05:00"
+      - data: "2023-02-07T13:23:07.27-05:00"
+      - data: "2023-02-07T13:37:34.66-05:00"
+      - data: "2023-02-07T15:44:37.00-05:00"
+  - name: $TITLE
+    type: text
+    data:
+      - Foundation - Application Colors
+      - Foundation - Application Colors
+  - name: $WindowTitle
+    type: formula
+    data: "\"Application colors\""
+    opaque: HgAAABwAAQASAEFwcGxpY2F0aW9uIGNvbG9ycwMA
+    signed: true
+    nonsummary: true
+  - name: $Body
+    type: composite
+    signed: true
+    nonsummary: true
+    data:
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x0000
+        Flags2: 0x0094
+        JustifyMode: 0
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 1
+        ParagraphSpacingAfter: 1
+        ParagraphSpacingBefore: 0
+        RightMargin: 12894
+        Tab:
+          - 2000
+          - 2560
+          - 3120
+          - 3680
+          - 4240
+          - 4800
+          - 5360
+          - 5920
+          - 6480
+          - 7040
+          - 7600
+          - 8160
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 12
+      - type: 0x00a6
+        FONTID: 199163907
+        Flags: 0x00000001
+        PABID: 1
+        StyleName: Body1
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x0000
+        Flags2: 0x0094
+        JustifyMode: 0
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 2
+        ParagraphSpacingAfter: 1
+        ParagraphSpacingBefore: 0
+        RightMargin: 18420
+        Tab:
+          - 2000
+          - 2560
+          - 3120
+          - 3680
+          - 4240
+          - 4800
+          - 5360
+          - 5920
+          - 6480
+          - 7040
+          - 7600
+          - 8160
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 12
+      - type: 0x00a6
+        FONTID: 247398403
+        Flags: 0x00000001
+        PABID: 2
+        StyleName: Subheading 1
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x0100
+        Flags2: 0x8094
+        JustifyMode: 0
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 3
+        ParagraphSpacingAfter: 1
+        ParagraphSpacingBefore: 1
+        RightMargin: 0
+        Tab:
+          - 2000
+          - 2560
+          - 3120
+          - 3680
+          - 4240
+          - 4800
+          - 5360
+          - 5920
+          - 6480
+          - 7040
+          - 7600
+          - 8160
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 12
+        data:
+          - 1440
+          - 0
+          - 1440
+          - 15
+          - 10800
+          - 100
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 3
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0x18df0005
+        data: Application Colors
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 3
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xbdf0005
+        data: "Having a color that is easily identifiable with an application is not a new concept in Domino Templates. For example, it is commonly known that teal is used in the Teamroom template, green in the Discussion template, and tan in the Document Library template. Defining an application color is a way of branding your application but also is a great wayfinding tool to end-users so that they can easily identify the app, whether it is in their view of Workspace or in navigating across document tabs in Notes or Nomad."
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 3
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xbdf0005
+        data: "The following is a set of primary colors that can be used as the primary application color for the app you are creating or restyling. This color can be used in the application icon, the title page that represents the application name, buttons, and in the action bars on both views and documents. If you are restyling an application, consider using a color similar to the existing color used today in the app. This will help users to transition into the new styling of the application. "
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x0100
+        Flags2: 0x8014
+        JustifyMode: 0
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 4
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 0
+        Tab:
+          - 2000
+          - 2560
+          - 3120
+          - 3680
+          - 4240
+          - 4800
+          - 5360
+          - 5920
+          - 6480
+          - 7040
+          - 7600
+          - 8160
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 12
+        data:
+          - 1440
+          - 0
+          - 1440
+          - 16
+          - 10440
+          - 100
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 4
+      - type: 0x00dd
+        Signature: 0xfffb
+        Version: 1
+      - type: 0xfffb
+        opaque: +/8sACAAAAAIBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAN7e3gAAAAAAAAA=
+      - type: 0xff5c
+        opaque: |
+          XP8+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAQAACgAAAAABAAAA
+          AAA=
+      - type: 0x00de
+        Signature: 0xfffb
+        Version: 1
+      - type: 0x00a3
+        opaque: ow6gBZAAPACQAAAAAgA=
+      - type: 0x00a4
+        opaque: pBIAADAGsAoAAFUjEREBAU8A
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1599
+        Flags: 0x0186
+        Flags2: 0x87a8
+        JustifyMode: 0
+        LeftMargin: 1599
+        LineSpacing: 0
+        PABID: 5
+        ParagraphSpacingAfter: 1
+        ParagraphSpacingBefore: 1
+        RightMargin: 2736
+        Tab:
+          - 2000
+          - 2560
+          - 3120
+          - 3680
+          - 4240
+          - 4800
+          - 5360
+          - 5920
+          - 6480
+          - 7040
+          - 7600
+          - 8160
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAN7e3gA=
+      - type: 0x00a4
+        opaque: pBIAAdALQBQAAFUjEREBAU8A
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 3039
+        Flags: 0x0186
+        Flags2: 0x84a8
+        JustifyMode: 0
+        LeftMargin: 3039
+        LineSpacing: 0
+        PABID: 6
+        ParagraphSpacingAfter: 1
+        ParagraphSpacingBefore: 1
+        RightMargin: 5184
+        Tab:
+          - 2000
+          - 2560
+          - 3120
+          - 3680
+          - 4240
+          - 4800
+          - 5360
+          - 5920
+          - 6480
+          - 7040
+          - 7600
+          - 8160
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 94
+          - 0
+          - 94
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: Color Name
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAN7e3gA=
+      - type: 0x00a4
+        opaque: pBIAAmAVABsAAFUjEREBAU8A
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 5487
+        Flags: 0x0186
+        Flags2: 0x84a8
+        JustifyMode: 0
+        LeftMargin: 5487
+        LineSpacing: 0
+        PABID: 7
+        ParagraphSpacingAfter: 1
+        ParagraphSpacingBefore: 1
+        RightMargin: 6912
+        Tab:
+          - 2000
+          - 2560
+          - 3120
+          - 3680
+          - 4240
+          - 4800
+          - 5360
+          - 5920
+          - 6480
+          - 7040
+          - 7600
+          - 8160
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 94
+          - 0
+          - 94
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 7
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: RGB
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAN7e3gA=
+      - type: 0x00a4
+        opaque: pBIAAyAcwCEAAFUjEREBAU8A
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 7215
+        Flags: 0x0186
+        Flags2: 0x84a8
+        JustifyMode: 0
+        LeftMargin: 7215
+        LineSpacing: 0
+        PABID: 8
+        ParagraphSpacingAfter: 1
+        ParagraphSpacingBefore: 1
+        RightMargin: 8640
+        Tab:
+          - 2000
+          - 2560
+          - 3120
+          - 3680
+          - 4240
+          - 4800
+          - 5360
+          - 5920
+          - 6480
+          - 7040
+          - 7600
+          - 8160
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 94
+          - 0
+          - 94
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 8
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: HEX
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAN7e3gA=
+      - type: 0x00a4
+        opaque: pBIBADAGsAoAAFUjEREBAaIA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAK49BAA=
+      - type: 0x00a4
+        opaque: pBIBAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 3039
+        Flags: 0x0186
+        Flags2: 0x80a8
+        JustifyMode: 0
+        LeftMargin: 3039
+        LineSpacing: 0
+        PABID: 9
+        ParagraphSpacingAfter: 1
+        ParagraphSpacingBefore: 1
+        RightMargin: 5184
+        Tab:
+          - 2000
+          - 2560
+          - 3120
+          - 3680
+          - 4240
+          - 4800
+          - 5360
+          - 5920
+          - 6480
+          - 7040
+          - 7600
+          - 8160
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 94
+          - 0
+          - 94
+          - 0
+          - 2160
+          - 100
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 9
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: Orange 800
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIBAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 7
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "174,61,4"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIBAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 8
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#AE3D04"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBICADAGsAoAAFUjEREBAQwA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAGZ/AAA=
+      - type: 0x00a4
+        opaque: pBICAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: Lime 700
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBICAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 7
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "102,127,0"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBICAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 8
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#667F00"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIDADAGsAoAAFUjEREBAQ0A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAAN3gAA=
+      - type: 0x00a4
+        opaque: pBIDAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: Teal 700
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIDAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 7
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "3,119,128"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIDAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 8
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#037780"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIEADAGsAoAAFUjEREBAYcA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAABmsAA=
+      - type: 0x00a4
+        opaque: pBIEAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: Blue 700
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIEAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 7
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "0,102,176"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIEAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 8
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#0066B0"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIFADAGsAoAAFUjEREBAZkA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAE1NuQA=
+      - type: 0x00a4
+        opaque: pBIFAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: Indigo 700
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIFAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 7
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "77,77,185"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIFAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 8
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#4D4DB9"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIGADAGsAoAAFUjEREBAekA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAH5ArAA=
+      - type: 0x00a4
+        opaque: pBIGAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: Purple 700
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIGAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 7
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "126,64,172"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIGAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 8
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#7E40AC"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIHADAGsAoAAFUjEREBAQsA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAI8EZQA=
+      - type: 0x00a4
+        opaque: pBIHAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: Pink  800
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIHAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 7
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "143,4,101"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIHAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 8
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#8F0465"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a5
+        opaque: pQYAAAAA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 3
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xbdf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 3
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xbdf0005
+        data: "The above palette are the available colors in the Restyle Application tool available in Notes and Nomad. Below are some additional colors that would also work as application colors. Feel free to explore using the colors from your own brand language but keep in mind that there needs to be enough contrast from the Application color and the text color that will appear on it. There are many online Contrast Analyzer tools that will allow you to check that your background color has a contrast ratio with the text color that you choose at or above 4.5:1."
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x0100
+        Flags2: 0x8094
+        JustifyMode: 0
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 10
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 0
+        Tab:
+          - 2000
+          - 2560
+          - 3120
+          - 3680
+          - 4240
+          - 4800
+          - 5360
+          - 5920
+          - 6480
+          - 7040
+          - 7600
+          - 8160
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 12
+        data:
+          - 1440
+          - 0
+          - 1440
+          - 16
+          - 10440
+          - 100
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 10
+      - type: 0x00dd
+        Signature: 0xfffb
+        Version: 1
+      - type: 0xfffb
+        opaque: +/8sACAAAAAMBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAN7e3gAAAAAAAAA=
+      - type: 0xff5c
+        opaque: |
+          XP8+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAQAACgAAAAABAAAA
+          AAA=
+      - type: 0x00de
+        Signature: 0xfffb
+        Version: 1
+      - type: 0x00a3
+        opaque: ow6gBZAAPACQAAAAAgA=
+      - type: 0x00a4
+        opaque: pBIAADAGsAoAAFUjEREBAU8A
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1599
+        Flags: 0x0186
+        Flags2: 0x8754
+        JustifyMode: 0
+        LeftMargin: 1599
+        LineSpacing: 0
+        PABID: 11
+        ParagraphSpacingAfter: 1
+        ParagraphSpacingBefore: 1
+        RightMargin: 2736
+        Tab:
+          - 2000
+          - 2560
+          - 3120
+          - 3680
+          - 4240
+          - 4800
+          - 5360
+          - 5920
+          - 6480
+          - 7040
+          - 7600
+          - 8160
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 11
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xcdf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAN7e3gA=
+      - type: 0x00a4
+        opaque: pBIAAdALQBQAAFUjEREBAU8A
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 3039
+        Flags: 0x0186
+        Flags2: 0x8754
+        JustifyMode: 0
+        LeftMargin: 3039
+        LineSpacing: 0
+        PABID: 12
+        ParagraphSpacingAfter: 1
+        ParagraphSpacingBefore: 1
+        RightMargin: 5184
+        Tab:
+          - 2000
+          - 2560
+          - 3120
+          - 3680
+          - 4240
+          - 4800
+          - 5360
+          - 5920
+          - 6480
+          - 7040
+          - 7600
+          - 8160
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 12
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: " Color Name"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAN7e3gA=
+      - type: 0x00a4
+        opaque: pBIAAmAVABsAAFUjEREBAU8A
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 5487
+        Flags: 0x0186
+        Flags2: 0x8754
+        JustifyMode: 0
+        LeftMargin: 5487
+        LineSpacing: 0
+        PABID: 13
+        ParagraphSpacingAfter: 1
+        ParagraphSpacingBefore: 1
+        RightMargin: 6912
+        Tab:
+          - 2000
+          - 2560
+          - 3120
+          - 3680
+          - 4240
+          - 4800
+          - 5360
+          - 5920
+          - 6480
+          - 7040
+          - 7600
+          - 8160
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 13
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: " RGB"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAN7e3gA=
+      - type: 0x00a4
+        opaque: pBIAAyAcwCEAAFUjEREBAU8A
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 7215
+        Flags: 0x0186
+        Flags2: 0x8754
+        JustifyMode: 0
+        LeftMargin: 7215
+        LineSpacing: 0
+        PABID: 14
+        ParagraphSpacingAfter: 1
+        ParagraphSpacingBefore: 1
+        RightMargin: 8640
+        Tab:
+          - 2000
+          - 2560
+          - 3120
+          - 3680
+          - 4240
+          - 4800
+          - 5360
+          - 5920
+          - 6480
+          - 7040
+          - 7600
+          - 8160
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 14
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: Hex
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAN7e3gA=
+      - type: 0x00a4
+        opaque: pBIBADAGsAoAAFUjEREBAbEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 11
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAMEMDQA=
+      - type: 0x00a4
+        opaque: pBIBAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 12
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: Red 800
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIBAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 5487
+        Flags: 0x0186
+        Flags2: 0x8754
+        JustifyMode: 0
+        LeftMargin: 5487
+        LineSpacing: 0
+        PABID: 15
+        ParagraphSpacingAfter: 1
+        ParagraphSpacingBefore: 1
+        RightMargin: 6912
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 15
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "193,12,13"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIBAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 7215
+        Flags: 0x0186
+        Flags2: 0x8754
+        JustifyMode: 0
+        LeftMargin: 7215
+        LineSpacing: 0
+        PABID: 16
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 8640
+        Tab:
+          - 720
+          - 1440
+          - 2160
+          - 2880
+          - 3600
+          - 4320
+          - 5040
+          - 5760
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 8
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 16
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#C10C0D"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x2f2f2f
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBICADAGsAoAAFUjEREBAa4A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 11
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAKAMDAA=
+      - type: 0x00a4
+        opaque: pBICAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 12
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: Red 900
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBICAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 13
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "160,12,12"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBICAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 16
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#A00C0C"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x2f2f2f
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIDADAGsAoAAFUjEREBAaMA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 11
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAFBpAQA=
+      - type: 0x00a4
+        opaque: pBIDAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 12
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: Lime 800
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIDAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 13
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "80,105,1"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIDAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 16
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#506901"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x2f2f2f
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIEADAGsAoAAFUjEREBAZUA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 11
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAAB3RAA=
+      - type: 0x00a4
+        opaque: pBIEAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 12
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: Green 700
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIEAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 13
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "0,119,68"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIEAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 16
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#007744"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x2f2f2f
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIFADAGsAoAAFUjEREBAaUA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 11
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAARjPQA=
+      - type: 0x00a4
+        opaque: pBIFAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 12
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: Green 800
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIFAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 13
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "4,99,61"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIFAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 16
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#04633D"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x2f2f2f
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIGADAGsAoAAFUjEREBAZYA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 11
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAANfaQA=
+      - type: 0x00a4
+        opaque: pBIGAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 12
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: Teal 800
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIGAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 13
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "3,95,105"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIGAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 16
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#035F69"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x2f2f2f
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIHADAGsAoAAFUjEREBAYcA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 11
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAAFTmwA=
+      - type: 0x00a4
+        opaque: pBIHAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 12
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: Blue 800
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIHAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 13
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "1,83,155"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIHAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 16
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#01539B"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x2f2f2f
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIIADAGsAoAAFUjEREBAZkA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 11
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAE1NuQA=
+      - type: 0x00a4
+        opaque: pBIIAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 12
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: Indigo 700
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIIAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 13
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "77,77,185"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIIAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 16
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#4D4DB9"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x2f2f2f
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIJADAGsAoAAFUjEREBAekA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 11
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAH5ArAA=
+      - type: 0x00a4
+        opaque: pBIJAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 12
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: Purple 700
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIJAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 13
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "126,64,172"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIJAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 16
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#7E40AC"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x2f2f2f
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIKADAGsAoAAFUjEREBAZsA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 11
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAFYarAA=
+      - type: 0x00a4
+        opaque: pBIKAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 12
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: Purple 900
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIKAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 13
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "86,26,135"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIKAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 16
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#561A87"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x2f2f2f
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBILADAGsAoAAFUjEREBAc0A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 11
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAHEFTQA=
+      - type: 0x00a4
+        opaque: pBILAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 12
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: Pink 900
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBILAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 13
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "113,5,77"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBILAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 16
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#71054D"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x2f2f2f
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a5
+        opaque: pQYAAAAA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 3
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xedf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 3
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xedf0005
+        data: Default User Interface Color Palette
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x0100
+        Flags2: 0x8794
+        JustifyMode: 0
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 17
+        ParagraphSpacingAfter: 1
+        ParagraphSpacingBefore: 1
+        RightMargin: 0
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 17
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xbdf0005
+        data: "The following colors will be used in the defining the properties of various design elements while creating your application. (The default color palette is the same as the Neutral Theme color palette, available in the Restyle Application Tool.)"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 17
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xbdf0005
+        data: "This will cover the following palettes: "
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 17
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xbdf0005
+        data: 1. Background Colors
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 17
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xbdf0005
+        data: 2. Text Colors
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 17
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xbdf0005
+        data: 3. Actions Color Palette
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 17
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xbdf0005
+        data: 4. Extended Color Palette
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x0100
+        Flags2: 0x8794
+        JustifyMode: 0
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 18
+        ParagraphSpacingAfter: 1
+        ParagraphSpacingBefore: 2
+        RightMargin: 0
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 18
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xedf0005
+        data: Background Colors
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 17
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xbdf0005
+        data: "Background colors help to define different areas of the UI in a subttle way. It helps you as a designer to draw areas of importance to the foreground and move less important areas to the background. Areas in the layout with the most contrast will capture the user's attention first. "
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 4
+      - type: 0x00dd
+        Signature: 0xfffb
+        Version: 1
+      - type: 0xfffb
+        opaque: +/8sACAAAAAHBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAN7e3gAAAAAAAAA=
+      - type: 0xff5c
+        opaque: |
+          XP8+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAQAACgAAAAABAAAA
+          AAA=
+      - type: 0x00de
+        Signature: 0xfffb
+        Version: 1
+      - type: 0x00a3
+        opaque: ow6gBZAAPACQAAAAAgA=
+      - type: 0x00a4
+        opaque: pBIAADAGsAoAAFUjEREBAU8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAN7e3gA=
+      - type: 0x00a4
+        opaque: pBIAAdALQBQAAFUjEREBAU8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: Color Name
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAN7e3gA=
+      - type: 0x00a4
+        opaque: pBIAAmAVABsAAFUjEREBAU8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 7
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: " RGB"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAN7e3gA=
+      - type: 0x00a4
+        opaque: pBIAAyAcwCEAAFUjEREBAU8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 8
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: HEX
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAN7e3gA=
+      - type: 0x00a4
+        opaque: pBIBADAGsAoAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1599
+        Flags: 0x0186
+        Flags2: 0x84a8
+        JustifyMode: 0
+        LeftMargin: 1599
+        LineSpacing: 0
+        PABID: 19
+        ParagraphSpacingAfter: 1
+        ParagraphSpacingBefore: 1
+        RightMargin: 2736
+        Tab:
+          - 2000
+          - 2560
+          - 3120
+          - 3680
+          - 4240
+          - 4800
+          - 5360
+          - 5920
+          - 6480
+          - 7040
+          - 7600
+          - 8160
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 94
+          - 0
+          - 94
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 19
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIBAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: background.paper
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIBAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 7
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "255,255,255"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIBAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 8
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#FFF"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBICADAGsAoAAFUjEREBAS8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 19
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAPf39wA=
+      - type: 0x00a4
+        opaque: pBICAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: background. light
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBICAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 7
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "247,247,247"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBICAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 8
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#F7F7F7"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIDADAGsAoAAFUjEREBAU8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 19
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAObm5gA=
+      - type: 0x00a4
+        opaque: pBIDAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: background.light2
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIDAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 7
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "230,230,230"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIDAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 8
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#E6E6E6"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIEADAGsAoAAFUjEREBAQ8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 19
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAMbGxgA=
+      - type: 0x00a4
+        opaque: pBIEAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: border
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIEAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 7
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "198,198,198"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIEAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 8
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#C6C6C6"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIFADAGsAoAAFUjEREBAd8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 19
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBACYmJgA=
+      - type: 0x00a4
+        opaque: pBIFAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: background.dark
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIFAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 7
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "38,38,38"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIFAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 8
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#262626"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIGADAGsAoAAFUjEREBAc8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 19
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAEdHRwA=
+      - type: 0x00a4
+        opaque: pBIGAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: background.dark2
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIGAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 7
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "71,71,71"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIGAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 8
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#474747"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a5
+        opaque: pQYAAAAA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 18
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xedf0005
+        data: Text Colors
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 3
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xbdf0005
+        data: "This palette is a good reference for what to do with text color because it is a common mistake to use pure black for text on a white background. The better design practice is to use a dark grey text color on white because this is easier on the eyes of the user and improves readability. "
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 4
+      - type: 0x00dd
+        Signature: 0xfffb
+        Version: 1
+      - type: 0xfffb
+        opaque: +/8sACAAAAAEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAN7e3gAAAAAAAAA=
+      - type: 0xff5c
+        opaque: |
+          XP8+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAQAACgAAAAABAAAA
+          AAA=
+      - type: 0x00de
+        Signature: 0xfffb
+        Version: 1
+      - type: 0x00a3
+        opaque: ow6gBZAAPACQAAAAAgA=
+      - type: 0x00a4
+        opaque: pBIAADAGsAoAAFUjEREBAU8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 11
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAN7e3gA=
+      - type: 0x00a4
+        opaque: pBIAAdALQBQAAFUjEREBAU8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 12
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: Color Name
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAN7e3gA=
+      - type: 0x00a4
+        opaque: pBIAAmAVABsAAFUjEREBAU8A
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 5566
+        Flags: 0x0186
+        Flags2: 0x8454
+        JustifyMode: 0
+        LeftMargin: 5566
+        LineSpacing: 0
+        PABID: 20
+        ParagraphSpacingAfter: 1
+        ParagraphSpacingBefore: 1
+        RightMargin: 6912
+        Tab:
+          - 2000
+          - 2560
+          - 3120
+          - 3680
+          - 4240
+          - 4800
+          - 5360
+          - 5920
+          - 6480
+          - 7040
+          - 7600
+          - 8160
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 94
+          - 0
+          - 94
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 20
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: " RGB"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAN7e3gA=
+      - type: 0x00a4
+        opaque: pBIAAyAcwCEAAFUjEREBAU8A
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 7294
+        Flags: 0x0186
+        Flags2: 0x8454
+        JustifyMode: 0
+        LeftMargin: 7294
+        LineSpacing: 0
+        PABID: 21
+        ParagraphSpacingAfter: 1
+        ParagraphSpacingBefore: 1
+        RightMargin: 8640
+        Tab:
+          - 2000
+          - 2560
+          - 3120
+          - 3680
+          - 4240
+          - 4800
+          - 5360
+          - 5920
+          - 6480
+          - 7040
+          - 7600
+          - 8160
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 94
+          - 0
+          - 94
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 21
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: HEX
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAN7e3gA=
+      - type: 0x00a4
+        opaque: pBIBADAGsAoAAFUjEREBAS8A
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1678
+        Flags: 0x0186
+        Flags2: 0x8454
+        JustifyMode: 0
+        LeftMargin: 1678
+        LineSpacing: 0
+        PABID: 22
+        ParagraphSpacingAfter: 1
+        ParagraphSpacingBefore: 1
+        RightMargin: 2736
+        Tab:
+          - 2000
+          - 2560
+          - 3120
+          - 3680
+          - 4240
+          - 4800
+          - 5360
+          - 5920
+          - 6480
+          - 7040
+          - 7600
+          - 8160
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 94
+          - 0
+          - 94
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 22
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAPf39wA=
+      - type: 0x00a4
+        opaque: pBIBAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 3118
+        Flags: 0x0186
+        Flags2: 0x8454
+        JustifyMode: 0
+        LeftMargin: 3118
+        LineSpacing: 0
+        PABID: 23
+        ParagraphSpacingAfter: 1
+        ParagraphSpacingBefore: 1
+        RightMargin: 5184
+        Tab:
+          - 2000
+          - 2560
+          - 3120
+          - 3680
+          - 4240
+          - 4800
+          - 5360
+          - 5920
+          - 6480
+          - 7040
+          - 7600
+          - 8160
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 94
+          - 0
+          - 94
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 23
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: text.darkbg
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIBAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 20
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "247,247,247"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIBAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 21
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#F7F7F7"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBICADAGsAoAAFUjEREBAd8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 22
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBACYmJgA=
+      - type: 0x00a4
+        opaque: pBICAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 23
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: text.lightbg
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBICAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 20
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "38,38,38"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBICAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 21
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#262626"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIDADAGsAoAAFUjEREBAQAA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 11
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBABISEgA=
+      - type: 0x00a4
+        opaque: pBIDAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 23
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: text.default
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIDAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 20
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "18,18,18"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIDAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 21
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#121212"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a5
+        opaque: pQYAAAAA
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x0100
+        Flags2: 0x8094
+        JustifyMode: 0
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 24
+        ParagraphSpacingAfter: 1
+        ParagraphSpacingBefore: 2
+        RightMargin: 0
+        Tab:
+          - 2000
+          - 2560
+          - 3120
+          - 3680
+          - 4240
+          - 4800
+          - 5360
+          - 5920
+          - 6480
+          - 7040
+          - 7600
+          - 8160
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 12
+        data:
+          - 1440
+          - 0
+          - 1440
+          - 15
+          - 10800
+          - 100
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 24
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xedf0005
+        data: Action Colors
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 3
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xbdf0005
+        data: "The following action colors should be used on clickable components, such as buttons and links. The default color is a blue but you could also consider using the color that you defined as the application color in thes areas instead."
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 4
+      - type: 0x00dd
+        Signature: 0xfffb
+        Version: 1
+      - type: 0xfffb
+        opaque: +/8sACAAAAAFBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAN7e3gAAAAAAAAA=
+      - type: 0xff5c
+        opaque: |
+          XP8+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAQAACgAAAAABAAAA
+          AAA=
+      - type: 0x00de
+        Signature: 0xfffb
+        Version: 1
+      - type: 0x00a3
+        opaque: ow6gBZAAPACQAAAAAgA=
+      - type: 0x00a4
+        opaque: pBIAADAGsAoAAFUjEREBAU8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAN7e3gA=
+      - type: 0x00a4
+        opaque: pBIAAdALQBQAAFUjEREBAU8A
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 3039
+        Flags: 0x0186
+        Flags2: 0x87a8
+        JustifyMode: 0
+        LeftMargin: 3039
+        LineSpacing: 0
+        PABID: 25
+        ParagraphSpacingAfter: 1
+        ParagraphSpacingBefore: 1
+        RightMargin: 5184
+        Tab:
+          - 2000
+          - 2560
+          - 3120
+          - 3680
+          - 4240
+          - 4800
+          - 5360
+          - 5920
+          - 6480
+          - 7040
+          - 7600
+          - 8160
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 25
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "  Color Name"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAN7e3gA=
+      - type: 0x00a4
+        opaque: pBIAAmAVABsAAFUjEREBAU8A
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 5487
+        Flags: 0x0186
+        Flags2: 0x87a8
+        JustifyMode: 0
+        LeftMargin: 5487
+        LineSpacing: 0
+        PABID: 26
+        ParagraphSpacingAfter: 1
+        ParagraphSpacingBefore: 1
+        RightMargin: 6912
+        Tab:
+          - 2000
+          - 2560
+          - 3120
+          - 3680
+          - 4240
+          - 4800
+          - 5360
+          - 5920
+          - 6480
+          - 7040
+          - 7600
+          - 8160
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 26
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: " RGB"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAN7e3gA=
+      - type: 0x00a4
+        opaque: pBIAAyAcwCEAAFUjEREBAU8A
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 7215
+        Flags: 0x0186
+        Flags2: 0x87a8
+        JustifyMode: 0
+        LeftMargin: 7215
+        LineSpacing: 0
+        PABID: 27
+        ParagraphSpacingAfter: 1
+        ParagraphSpacingBefore: 1
+        RightMargin: 8640
+        Tab:
+          - 2000
+          - 2560
+          - 3120
+          - 3680
+          - 4240
+          - 4800
+          - 5360
+          - 5920
+          - 6480
+          - 7040
+          - 7600
+          - 8160
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 27
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: HEX
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAN7e3gA=
+      - type: 0x00a4
+        opaque: pBIBADAGsAoAAFUjEREBAYcA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAAFTmwA=
+      - type: 0x00a4
+        opaque: pBIBAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: action.default
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIBAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 7
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "1,83,155"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIBAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 8
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#01539B"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBICADAGsAoAAFUjEREBAc0A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 19
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAHEFTQA=
+      - type: 0x00a4
+        opaque: pBICAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: Active Link
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBICAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 5487
+        Flags: 0x0186
+        Flags2: 0x84a8
+        JustifyMode: 0
+        LeftMargin: 5487
+        LineSpacing: 0
+        PABID: 28
+        ParagraphSpacingAfter: 1
+        ParagraphSpacingBefore: 1
+        RightMargin: 6912
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 94
+          - 0
+          - 94
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 28
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "113,5,77"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBICAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 7215
+        Flags: 0x0186
+        Flags2: 0x84a8
+        JustifyMode: 0
+        LeftMargin: 7215
+        LineSpacing: 0
+        PABID: 29
+        ParagraphSpacingAfter: 1
+        ParagraphSpacingBefore: 1
+        RightMargin: 8640
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 94
+          - 0
+          - 94
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 29
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#710549"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIDADAGsAoAAFUjEREBAYcA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 19
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAAFTmwA=
+      - type: 0x00a4
+        opaque: pBIDAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: Unvisited Link
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIDAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 28
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "1,83,155"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIDAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 29
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#01539B"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIEADAGsAoAAFUjEREBAesA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 19
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAFYahwA=
+      - type: 0x00a4
+        opaque: pBIEAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: Visited Link
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIEAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 28
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "86,26,135"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIEAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 29
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#561A87"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a5
+        opaque: pQYAAAAA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 24
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xedf0005
+        data: Extended Color Palette
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 3
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xbdf0005
+        data: "The following are a set of colors that can be used anywhere you would like to use color to capture the user's attention. Each color has a background, border, and text color defined."
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 4
+      - type: 0x00dd
+        Signature: 0xfffb
+        Version: 1
+      - type: 0xfffb
+        opaque: +/8sACAAAAAfBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAN7e3gAAAAAAAAA=
+      - type: 0xff5c
+        opaque: |
+          XP8+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAQAACgAAAAABAAAA
+          AAA=
+      - type: 0x00de
+        Signature: 0xfffb
+        Version: 1
+      - type: 0x00a3
+        opaque: ow6gBZAAPACQAAAAAgA=
+      - type: 0x00a4
+        opaque: pBIAADAGsAoAAFUjEREBAU8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAN7e3gA=
+      - type: 0x00a4
+        opaque: pBIAAdALQBQAAFUjEREBAU8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: Color Token
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAN7e3gA=
+      - type: 0x00a4
+        opaque: pBIAAmAVABsAAFUjEREBAU8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 7
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: RGB
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAN7e3gA=
+      - type: 0x00a4
+        opaque: pBIAAyAcwCEAAFUjEREBAU8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 8
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: HEX
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAN7e3gA=
+      - type: 0x00a4
+        opaque: pBIBADAGsAoAAFUjEREBASAA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAPXg4AA=
+      - type: 0x00a4
+        opaque: pBIBAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: bg.red
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIBAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 28
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "245,224,224"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIBAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 29
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#DCD3E5"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBICADAGsAoAAFUjEREBAS4A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 19
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAObQ0AA=
+      - type: 0x00a4
+        opaque: pBICAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: border.red
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBICAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 28
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "230,208,208"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBICAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 29
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#E6D0D0"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIDADAGsAoAAFUjEREBAbEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAMEMDQA=
+      - type: 0x00a4
+        opaque: pBIDAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: text.red
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIDAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 7
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "193,12,13"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIDAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 8
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#C10C0D"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIEADAGsAoAAFUjEREBASAA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 19
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAPPm3QA=
+      - type: 0x00a4
+        opaque: pBIEAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: bg.orange
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIEAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 28
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "243,230,221"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIEAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 29
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#F3E6DD"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIFADAGsAoAAFUjEREBASAA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 19
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAOPXzwA=
+      - type: 0x00a4
+        opaque: pBIFAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: border.orange
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIFAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 28
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "227,215,207"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIFAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 29
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#E3D7CF"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIGADAGsAoAAFUjEREBAaIA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAK49BAA=
+      - type: 0x00a4
+        opaque: pBIGAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: text.orange
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIGAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 7
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "174,61,4"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIGAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 8
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#AE3D04"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIHADAGsAoAAFUjEREBASAA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 19
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAPPo3AA=
+      - type: 0x00a4
+        opaque: pBIHAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: bg.yellow
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIHAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 28
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "243,232,220"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIHAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 29
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#F3E8DC"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIIADAGsAoAAFUjEREBASAA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAODZzwA=
+      - type: 0x00a4
+        opaque: pBIIAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: border.yellow
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIIAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 28
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "224,217,207"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIIAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 29
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#E0D9CF"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIJADAGsAoAAFUjEREBAbIA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAI5KBgA=
+      - type: 0x00a4
+        opaque: pBIJAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: text.yellow
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIJAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 7
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "142,74,6"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIJAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 8
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#8E4A06"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIKADAGsAoAAFUjEREBARUA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAOf03gA=
+      - type: 0x00a4
+        opaque: pBIKAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: bg.lime
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIKAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 28
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "231,244,222"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIKAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 29
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#E7F4DE"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBILADAGsAoAAFUjEREBAU8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBANbe2AA=
+      - type: 0x00a4
+        opaque: pBILAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: border.lime
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBILAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 28
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "214,222,216"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBILAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 29
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#D6DED8"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIMADAGsAoAAFUjEREBAaMA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 19
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAFBpAQA=
+      - type: 0x00a4
+        opaque: pBIMAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: text.lime
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIMAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 7
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "80,105,1"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIMAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 7215
+        Flags: 0x0186
+        Flags2: 0x84a8
+        JustifyMode: 0
+        LeftMargin: 7215
+        LineSpacing: 0
+        PABID: 30
+        ParagraphSpacingAfter: 1
+        ParagraphSpacingBefore: 1
+        RightMargin: 8640
+        Tab:
+          - 720
+          - 1440
+          - 2160
+          - 2880
+          - 3600
+          - 4320
+          - 5040
+          - 5760
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 8
+        data:
+          - 94
+          - 0
+          - 94
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 30
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#506901"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBINADAGsAoAAFUjEREBARUA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBANfx5gA=
+      - type: 0x00a4
+        opaque: pBINAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: bg.green
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBINAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 28
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "215,241,230"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBINAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 29
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#D7F1E6"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIOADAGsAoAAFUjEREBAV8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAM/b1gA=
+      - type: 0x00a4
+        opaque: pBIOAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: border.green
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIOAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 28
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "207,219,214"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIOAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 29
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#CFDBD6"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIPADAGsAoAAFUjEREBAaUA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAARjPQA=
+      - type: 0x00a4
+        opaque: pBIPAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: text.green
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIPAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 7
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "4,99,61"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIPAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 8
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#04633D"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIQADAGsAoAAFUjEREBARgA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBANjw8gA=
+      - type: 0x00a4
+        opaque: pBIQAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: teal.bg
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIQAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 28
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "216,240,242"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIQAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 29
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#D8F0F2"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIRADAGsAoAAFUjEREBAV8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAM/b3AA=
+      - type: 0x00a4
+        opaque: pBIRAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: teal.border
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIRAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 28
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "207,219,220"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIRAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 29
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#CFDBDC"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBISADAGsAoAAFUjEREBAZYA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAANfaQA=
+      - type: 0x00a4
+        opaque: pBISAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: teal.text
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBISAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 28
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "3,95,105"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBISAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 29
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#035F69"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBITADAGsAoAAFUjEREBARgA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBANvo8wA=
+      - type: 0x00a4
+        opaque: pBITAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: bg.blue
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBITAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 28
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "219,232,243"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBITAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 29
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#DBE8F3"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIUADAGsAoAAFUjEREBAV8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAM/Z4AA=
+      - type: 0x00a4
+        opaque: pBIUAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: border.blue
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIUAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 28
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "207,217,224"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIUAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 29
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#CFD9E0"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIVADAGsAoAAFUjEREBAYcA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAAFTmwA=
+      - type: 0x00a4
+        opaque: pBIVAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: text.blue
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIVAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 7
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "1,83,155"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIVAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 8
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#01539B"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIWADAGsAoAAFUjEREBARkA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAOLi9QA=
+      - type: 0x00a4
+        opaque: pBIWAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: bg.indigo
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIWAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 28
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "226,226,245"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIWAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 29
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#E2E2F5"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIXADAGsAoAAFUjEREBAU8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBANfX4QA=
+      - type: 0x00a4
+        opaque: pBIXAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: border.indigo
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIXAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 28
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "215,215,225"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIXAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 29
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#D7D7E1"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIYADAGsAoAAFUjEREBAegA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAEQznwA=
+      - type: 0x00a4
+        opaque: pBIYAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: text.indigo
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIYAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 7
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "68,51,159"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIYAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 27
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#44339F"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIZADAGsAoAAFUjEREBARoA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAOvg9QA=
+      - type: 0x00a4
+        opaque: pBIZAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: bg.purple
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIZAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 28
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "235, 224, 245"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIZAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 29
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#EBE0F5"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIaADAGsAoAAFUjEREBAU8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBANzV4AA=
+      - type: 0x00a4
+        opaque: pBIaAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: border.purple
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIaAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 28
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "220,213,224"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIaAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 29
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#DCD5E0"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIbADAGsAoAAFUjEREBAesA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAGoujwA=
+      - type: 0x00a4
+        opaque: pBIbAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: text.purple
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIbAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 7
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "106,46,153"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIbAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 8
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#6A2E99"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIcADAGsAoAAFUjEREBAR0A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAPPc7QA=
+      - type: 0x00a4
+        opaque: pBIcAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: bg.pink
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIcAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 28
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "243,220,237"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIcAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 29
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#F3DCED"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIdADAGsAoAAFUjEREBAV8A
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAODR2wA=
+      - type: 0x00a4
+        opaque: pBIdAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: border.pink
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIdAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 28
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "224,209,219"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIdAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 29
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#E0D1DB"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIeADAGsAoAAFUjEREBAQsA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 19
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAI8EZQA=
+      - type: 0x00a4
+        opaque: pBIeAdALQBQAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 6
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: text.pink
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIeAmAVABsAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 7
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "143,4,101"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a4
+        opaque: pBIeAyAcwCEAAFUjEREBAQEA
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 8
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+        data: "#8F0465"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x00d3
+        opaque: 0wgBAP///wA=
+      - type: 0x00a5
+        opaque: pQYAAAAA
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x0100
+        Flags2: 0x8014
+        JustifyMode: 0
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 31
+        ParagraphSpacingAfter: 1
+        ParagraphSpacingBefore: 1
+        RightMargin: 0
+        Tab:
+          - 2000
+          - 2560
+          - 3120
+          - 3680
+          - 4240
+          - 4800
+          - 5360
+          - 5920
+          - 6480
+          - 7040
+          - 7600
+          - 8160
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 12
+        data:
+          - 1440
+          - 0
+          - 1440
+          - 16
+          - 10440
+          - 100
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 31
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xadf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZBcmlhbAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: $HTMLCode
+    signed: true
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: X/8QAAIADwAHAAAAAAAAAA==
+  - name: $Info
+    signed: true
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: hhgBAIAAAAAAgAAAAQABAP///wAQAAAA
+remaining: []

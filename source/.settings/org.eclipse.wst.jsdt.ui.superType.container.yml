@@ -1,0 +1,24 @@
+---
+class: 4
+flags: 0x0000
+unid: OFBA9762327BEA8286-ON0055FE7F88258805
+items:
+  - name: $DesignerVersion
+    type: text
+    data: 8.5.3
+    signed: true
+  - name: $FileNames
+    type: text
+    data: ".settings/org.eclipse.wst.jsdt.ui.superType.container"
+    signed: true
+  - name: $Flags
+    type: text
+    data: ~C4g
+  - name: $TITLE
+    type: text
+    data: ".settings/org.eclipse.wst.jsdt.ui.superType.container"
+  - name: $FileData
+    type: composite
+    signed: true
+    nonsummary: true
+remaining: []

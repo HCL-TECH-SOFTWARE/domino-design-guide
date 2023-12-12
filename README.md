@@ -2,7 +2,6 @@
 
 To build the application from the source see the latest on [Source Code Integration](https://help.hcltechsw.com/dom_designer/14.0.0/basic/wn_sourcecodeutilitytool.html) in Domino. See the [Releases](https://github.com/<organization>/<repository>/releases) for the application download.
 
-
 # Note
 We follow [The Grand Unified Theory of Documentation](https://documentation.divio.com)
 

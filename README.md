@@ -1,13 +1,13 @@
 # HCL Domino Design Guide
 
-To build the application from the source see the latest on [Source Code Integration](https://help.hcltechsw.com/dom_designer/14.0.0/basic/wn_sourcecodeutilitytool.html)in Domino. See the [Releases](https://github.com/HCL-TECH-SOFTWARE/domino-design-guide/releases) for the application download.
+To build the application from the source see the latest on [Source Code Integration](https://help.hcltechsw.com/dom_designer/14.0.0/basic/wn_sourcecodeutilitytool.html) in Domino. See the [Releases](https://github.com/<organization>/<repository>/releases) for the application download.
 
 
 # Note
 We follow [The Grand Unified Theory of Documentation](https://documentation.divio.com)
 
 ## Issues
-For issues please use the [GitHub issue tracker](issues)
+For issues please use the [GitHub issue tracker](https://github.com/<organization>/<repository>/issues)
 
 ## Contributing
 We welcome contributions following [our guidelines](CONTRIBUTING.md).

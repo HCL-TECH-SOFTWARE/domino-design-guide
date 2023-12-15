@@ -1,0 +1,44 @@
+---
+class: 4
+flags: 0x0000
+unid: OF1EE8F03AA5AA6682-ON0009AC1688258841
+items:
+  - name: $DesignerVersion
+    type: text
+    data: 8.5.3
+    signed: true
+  - name: $Flags
+    type: text
+    data: D34CiQ
+  - name: $FlagsExt
+    type: text
+    data: D
+    signed: true
+  - name: $ImageNames
+    type: text
+    data: travel_restaurant.png
+    signed: true
+  - name: $ImagesColorize
+    type: number
+    data: 0
+    signed: true
+  - name: $ImagesHigh
+    type: number
+    data: 1
+    signed: true
+  - name: $ImagesWide
+    type: number
+    data: 1
+    signed: true
+  - name: $MimeType
+    type: text
+    data: image/png
+    signed: true
+  - name: $TITLE
+    type: text
+    data: travel_restaurant.png
+  - name: $ImageData
+    type: composite
+    signed: true
+    nonsummary: true
+remaining: []

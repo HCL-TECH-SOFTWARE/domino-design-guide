@@ -1,0 +1,679 @@
+---
+class: 4
+flags: 0x0000
+unid: OF0F11A95B13CA7F4A-ON002F7F1C88258813
+items:
+  - name: $$ScriptName
+    type: text
+    data: Foundation - Themes
+    signed: true
+    nonsummary: true
+  - name: $Comment
+    type: text
+    data: ""
+    signed: true
+  - name: $DesignerVersion
+    type: text
+    data: 8.5.3
+    signed: true
+  - name: $Flags
+    type: text
+    data: C34WQ
+  - name: $Revisions
+    type: time
+    data:
+      - data: "2022-05-14T09:46:47.55-07:00"
+        dst: true
+      - data: "2023-02-03T09:53:30.60-05:00"
+      - data: "2023-02-07T15:47:56.65-05:00"
+  - name: $TITLE
+    type: text
+    data: Foundation - Themes
+  - name: $Body
+    type: composite
+    signed: true
+    nonsummary: true
+    data:
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x0100
+        Flags2: 0x8794
+        JustifyMode: 0
+        LeftMargin: 1440
+        LineSpacing: 0
+        PABID: 1
+        ParagraphSpacingAfter: 1
+        ParagraphSpacingBefore: 1
+        RightMargin: 0
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 1
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0x18df0005
+        data: Color Themes
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1440
+        Flags: 0x0100
+        Flags2: 0x8094
+        JustifyMode: 0
+        LeftMargin: 1440
+        LineSpacing: 1
+        PABID: 2
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 0
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 1440
+          - 0
+          - 1440
+          - 15
+          - 10800
+          - 100
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 2
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xbdf0005
+        data: "In this design system there are three factors that create a theme: "
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1800
+        Flags: 0x0100
+        Flags2: 0x8094
+        JustifyMode: 0
+        LeftMargin: 2160
+        LineSpacing: 1
+        PABID: 3
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 1
+        RightMargin: 0
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 2160
+          - 8
+          - 1800
+          - 19
+          - 10800
+          - 100
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 3
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xbdf0005
+        data: "1.\tApplication color: A color that provides identity and branding to the application. "
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 1800
+        Flags: 0x0100
+        Flags2: 0x8094
+        JustifyMode: 0
+        LeftMargin: 2160
+        LineSpacing: 1
+        PABID: 4
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 0
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 2160
+          - 8
+          - 1800
+          - 19
+          - 10800
+          - 100
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 4
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xbdf0005
+        data: "2.\tTheme Color: Set of background and text colors "
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 4
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xbdf0005
+        data: "3.\tTheme Schema: The definition of how colors should be applied to design elements. "
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 2160
+        Flags: 0x0100
+        Flags2: 0x8094
+        JustifyMode: 0
+        LeftMargin: 2160
+        LineSpacing: 1
+        PABID: 5
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 0
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 2160
+          - 8
+          - 2160
+          - 23
+          - 10800
+          - 100
+          - 0x00000001
+          - 0x00000004
+      - type: 0x0083
+        PABID: 5
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xbdf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 2
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xedf0005
+        data: Application Color
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 2
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xbdf0005
+        data: "The application color is meant to be used in the application icon and in a frame or design element that appears on launch. For example, the background color of the application name page; typically included in the out of box themes that are provided by HCL. Depending on how your application is built and whether you are using framesets or not, this location could vary. This color can also be used across the action bars for both views and forms, this direction is defined in the schema called “Colorful action bar”."
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 2
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xbdf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 2
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xbdf0005
+        data: "The main purpose of using this color is to provide users with an identifying factor that they can visually associate with the application. This will help them to identify documents and views that might appear across multiple tabs in the client. "
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 2
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xbdf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 2
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xedf0005
+        data: Theme Color
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 2
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xbdf0005
+        data: "There are three sets of theme colors: "
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 4
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xbdf0005
+        data: "1.\tNeutral: A set of gray colors that lack all color saturation."
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 4
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xbdf0005
+        data: "2.\tCreamy Taupe: A set of warm creamy colors with a natural taupe undertone. "
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 4
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xbdf0005
+        data: "3.\tSea Breeze: A set of cool blue colors with a natural beige undertone. "
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 2
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xbdf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 2
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xbdf0005
+        data: "Your full color set for the application is comprised of this set of theme colors and the application color that you choose. These themes are not meant to be mixed in the same app but rather used as a set to bring consistency in the look and feel of the application across its design elements. "
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 2
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xbdf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 2
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xedf0005
+        data: Theme Schema
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 2
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xbdf0005
+        data: "The theme schema is a set of property definitions on how to apply the color to design elements. There are three schemas provided in this guide. "
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 4
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xbdf0005
+        data: "1.\tColorful Action Bar"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 4
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xbdf0005
+        data: "2.\tSimple"
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 4
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xbdf0005
+        data: "3.\tDark Outline "
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 2
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xbdf0005
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+      - type: 0x0081
+      - type: 0x0083
+        PABID: 2
+      - type: 0x00dd
+        Signature: 0xff85
+        Version: 0
+      - type: 0xff85
+        FontID: 0xbdf0005
+        data: "The following image shows how the schema could be applied on application launch if you are using a similar frameset layout to the HCL templates. More details on how to apply the schema is defined in the specific design element pages. "
+      - type: 0x00d2
+        Color:
+          Flags: 0x0001
+          rgb: 0x262626
+      - type: 0x00de
+        Signature: 0xff85
+        Version: 0
+  - name: $Fonts
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: i/8oAAEABSZBcmlhbAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  - name: $HTMLCode
+    signed: true
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: X/8QAAIADwAHAAAAAAAAAA==
+  - name: $Info
+    signed: true
+    nonsummary: true
+    type: opaque
+    type_num: 1
+    opaque: hhgBAIAAAAAAgAAAAQABAP///wAQAAAA
+remaining: []

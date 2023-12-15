@@ -1,0 +1,44 @@
+---
+class: 4
+flags: 0x0000
+unid: OFA77C7872AB8BC0C3-ON0047966385258989
+items:
+  - name: $DesignerVersion
+    type: text
+    data: 8.5.3
+    signed: true
+  - name: $Flags
+    type: text
+    data: D34CiQ
+  - name: $FlagsExt
+    type: text
+    data: D
+    signed: true
+  - name: $ImageNames
+    type: text
+    data: vwicn154.gif
+    signed: true
+  - name: $ImagesColorize
+    type: number
+    data: 0
+    signed: true
+  - name: $ImagesHigh
+    type: number
+    data: 1
+    signed: true
+  - name: $ImagesWide
+    type: number
+    data: 1
+    signed: true
+  - name: $MimeType
+    type: text
+    data: image/gif
+    signed: true
+  - name: $TITLE
+    type: text
+    data: vwicn154.gif
+  - name: $ImageData
+    type: composite
+    signed: true
+    nonsummary: true
+remaining: []

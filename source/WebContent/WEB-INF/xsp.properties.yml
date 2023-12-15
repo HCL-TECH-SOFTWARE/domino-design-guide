@@ -1,0 +1,28 @@
+---
+class: 4
+flags: 0x0000
+unid: OFC5C742F7850C7B7B-ON0055FE7288258805
+items:
+  - name: $DesignerVersion
+    type: text
+    data: 8.5.3
+    signed: true
+  - name: $FileNames
+    type: text
+    data: WEB-INF/xsp.properties
+    signed: true
+  - name: $Flags
+    type: text
+    data: ~C4g
+  - name: $FlagsExt
+    type: text
+    data: w
+    signed: true
+  - name: $TITLE
+    type: text
+    data: WEB-INF/xsp.properties
+  - name: $FileData
+    type: composite
+    signed: true
+    nonsummary: true
+remaining: []

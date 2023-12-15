@@ -1,0 +1,99 @@
+---
+class: 1024
+flags: 0x0000
+unid: OFFE8FAD5D64317F27-ON00739B5A85258A82
+items:
+  - name: $Fields
+    type: text
+    data: $TemplateBuild
+  - name: $Flags
+    type: text
+    data: ""
+  - name: $Info
+    type: text
+    data: $TemplateBuild
+    signed: true
+  - name: $LANGUAGE
+    type: text
+    data: en
+    signed: true
+  - name: $TITLE
+    type: text
+    data: $TemplateBuild
+  - name: $TemplateBuild
+    type: text
+    data: "14.0"
+    signed: true
+  - name: $TemplateBuildDate
+    type: time
+    data: "2023-12-14T18:04:26.00-05:00"
+    signed: true
+  - name: $TemplateBuildName
+    type: text
+    data: HCL Domino Design Guide
+    signed: true
+  - name: $TemplateBuildTool
+    type: text
+    data: CICO
+    signed: true
+  - name: $Body
+    type: composite
+    signed: true
+    data:
+      - type: 0x0081
+      - type: 0xff82
+        FirstLineLeftMargin: 0
+        Flags: 0x0100
+        Flags2: 0x0000
+        JustifyMode: 0
+        LeftMargin: 0
+        LineSpacing: 0
+        PABID: 1
+        ParagraphSpacingAfter: 0
+        ParagraphSpacingBefore: 0
+        RightMargin: 0
+        Tab:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+        TabTypes: 0x00000000
+        Tabs: 0
+        data:
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+          - 0
+      - type: 0x0083
+        PABID: 1
+      - type: 0xff85
+        FontID: 0x0000
+      - type: 0x00dd
+        Signature: 0xff8a
+        Version: 0
+      - type: 0xff8a
+        opaque: iv8yAIoAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgAAAAAAJFRlbXBsYXRlQnVpbGQ=
+      - type: 0x00de
+        Signature: 0xff8a
+        Version: 0
+      - type: 0xff85
+        FontID: 0x0000
+remaining: []

@@ -1,13 +1,12 @@
 ---
 layout: default
-title: "Home"
+title: "HCL Domino Design Guide"
 nav_order: 1
 description: "HCL Domino Design Guide"
 has_children: true
 ---
-<h1>Welcome</h1>
-Documentation about how to run HCL Domino on the various Linux distributions.
-This page is community supported and welcomes contributions.
+<h1>HCL Domino Design Guide</h1>
+A comprehensive guide for designing Domino applications.
 
 <details close markdown="block">
   <summary>

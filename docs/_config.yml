@@ -63,8 +63,8 @@ heading_anchors: true
 # Aux links for the upper right navigation
 
 aux_links:
-  View on GitHub:
-    - https://github.com/HCL-TECH-SOFTWARE/domino-design-guide/
+  Download from GitHub:
+    - https://github.com/HCL-TECH-SOFTWARE/domino-design-guide/releases/latest
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true

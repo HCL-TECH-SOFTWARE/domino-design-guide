@@ -17,6 +17,9 @@ A comprehensive guide for designing Domino applications.
 {:toc}
 </details>
 
+![Screenshot Design Guide](assets/images/png/screenshot.png)
+
+
 ## Background
 
 ## Index
